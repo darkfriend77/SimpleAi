@@ -7,7 +7,6 @@
 
 ![](ReadMe/simpleaiconsole.png)
 
-One to two paragraph statement about your product and what it does.
 Simple A.I. is using **HsProtoSim**, which I created for simulation purpose,
 currently there more less all basic cards implemented and some classics.
 
